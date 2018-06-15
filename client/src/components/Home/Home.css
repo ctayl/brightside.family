@@ -4,7 +4,29 @@
 }
 
 .container {
-   margin-top: 25px;
+   margin-top: 56px;
    background: #343a40;
    height: 90vh;
+}
+
+#about {
+   height: 89vh;
+}
+
+@media screen and (min-width: 680px) {
+  .container {
+       margin-top: 69.5px;
+   }
+   #about {
+      height: 87vh;
+   }
+}
+
+@media screen and (min-width: 860px) {
+  .container {
+       margin-top: 84px;
+   }
+   #about {
+      height: 85vh;
+   }
 }
