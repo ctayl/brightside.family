@@ -2,7 +2,12 @@ body {
   background: #616161;
 }
 
+#nav-custom {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background: #ffeaae;
+}
+
 #main {
-  background: rgb(255, 255, 255);
-  height: 100vh;
+  height: 100%;
 }
