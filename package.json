@@ -21,14 +21,5 @@
   "bugs": {
     "url": "https://github.com/lyonx/brightside.family/issues"
   },
-  "homepage": "https://github.com/lyonx/brightside.family#readme",
-  "dependencies": {
-    "concurrently": "^3.5.1",
-    "express": "^4.16.3",
-    "react-router-dom": "^4.3.1"
-  },
-  "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-plugin-react": "^7.9.1"
-  }
+  "homepage": "https://github.com/lyonx/brightside.family#readme"
 }
