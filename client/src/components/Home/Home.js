@@ -8,9 +8,9 @@ class Home extends Component {
       return (
          <div id="main">
             <div className="container">
-               <div className="row">
+               <div className="row full">
                   <div className="col-md">
-                     <div class="jumbotron" id="about">
+                     <div className="jumbotron full" id="about">
                         <h1 className="display-4">About BrightSide</h1>
                         <p className="lead">We speciallize in providing fair and compassionate Supervised Visitation Monitoring.</p>
                         <hr className="my-4"/>
